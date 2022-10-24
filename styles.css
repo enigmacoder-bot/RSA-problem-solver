@@ -1,7 +1,14 @@
 body{
     font-size: 2rem;
+   /* color: white;
+   background-color: black; */
+
     background: linear-gradient(#Aad33a,#C4d);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 110, 255);
 }
 input{
     height: 25px;
