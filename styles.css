@@ -30,3 +30,7 @@ padding: 2px;
 #submit:hover{
     background-color: greenyellow;
 }
+
+footer p{
+    text-align: center;
+}
