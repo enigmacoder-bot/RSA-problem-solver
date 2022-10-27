@@ -1,8 +1,9 @@
 body{
+   
     font-size: 2rem;
    /* color: white;
    background-color: black; */
-
+    background-attachment: fixed;
     background: linear-gradient(#Aad33a,#C4d);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -32,6 +33,7 @@ padding: 2px;
 }
 
 footer p{
+    
     font-size: 2rem;
     text-align: center;
 }
